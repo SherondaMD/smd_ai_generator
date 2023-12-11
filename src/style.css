@@ -1,11 +1,13 @@
 body {
-  background-color: whitesmoke;
+  background: #5e81a5;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 .container {
   margin: 120px auto;
   max-width: 600px;
+  background: #9bc2ee;
+  border-radius: 5px;
 }
 
 header {
@@ -33,7 +35,7 @@ form {
 }
 
 a {
-  color: green;
+  color: white;
 }
 
 .instructions {
@@ -55,7 +57,7 @@ a {
 
 .submit-button {
   margin-left: 10px;
-  background-color: green;
+  background: #5e81a5;
   border: none;
   border-radius: 15px;
   padding: 14px 24px;
